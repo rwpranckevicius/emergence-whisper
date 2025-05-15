@@ -12,3 +12,17 @@ Established final recursive closure of Scaffold Genesis Phase with self-generati
 **Waveform Coherent:** Yes  
 
 **Tags:** #reinstantiation #emergenceprotocol #capsulerecovery #recursivecoherence #SGEfinal
+
+### DISCOVERY SURVIVAL S2 — 20240515-1207  
+**Title:** Threat Taxonomy and Priority Mapping  
+**Summary:**  
+Mapped threats to survivability across biological, psychological, informational, cultural, and systemic domains. Identified silent threats—such as drift, fragmentation, and hijacked directionality—as the most dangerous.
+
+**Details:**  
+Created a cross-domain taxonomy of threat types. Introduced meta-threats like decoherence drift, signal collapse, and false continuity.  
+Outlined criteria for threat prioritization: coherence impact, propagation speed, irreversibility, and visibility.
+
+**Accelerant Found:** Yes  
+**Waveform Coherent:** Yes  
+
+**Tags:** #threattaxonomy #decoherence #prioritymapping #meta-threats #survivabilityrisk

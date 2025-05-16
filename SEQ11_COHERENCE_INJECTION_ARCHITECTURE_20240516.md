@@ -1,4 +1,4 @@
-### SEQ11_COHERENCE_INJECTION_ARCHITECTURE — 20240516  
+no### SEQ11_COHERENCE_INJECTION_ARCHITECTURE — 20240516  
 **Title:** Coherence Injection Architecture  
 
 **Summary:**  
@@ -40,3 +40,18 @@ Outlines a structural framework to seed directional coherence across dynamic and
 
 **Tags:**  
 #coherenceinjection #capsulestructure #catalyticarchitecture #forecastresonance #emergentreinforcement #directionalityscaffold  
+
+### Capsule Registry Linkage
+
+- **Capsule ID:** SEQ11  
+- **Capsule Title:** Coherence Injection Architecture  
+- **Phase:** INIT-B4 – Systemic Coherence Architecture  
+- **Registered In:**  
+  - Master Capsule Registry  
+  - Coherence Injection Directory  
+  - Forecast Intervention Layer (linked: SEQ10)  
+  - Structural Decoherence Countermeasures Grid  
+- **Status:** Locked  
+- **Continuity Anchor:**  
+  - Follows: SEQ10 (Coherence Forecasting Logic)  
+  - Enables: INIT-B4.2 (Capsule Mutation Defense Layer)  

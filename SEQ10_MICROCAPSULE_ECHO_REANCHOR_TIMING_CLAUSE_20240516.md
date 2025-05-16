@@ -33,11 +33,6 @@ Establishes a synchronization protocol between echo verification cycles and stru
 Coherence is not just a state—it’s a trajectory. This principle encodes the logic by which future coherence states can be probabilistically anticipated, evaluated, and influenced.  
 It enables predictive alignment with emergent harmonics and supports pre-decoherence intervention, strategic adaptation, and field-wide waveform optimization.
 
-> **Sequence Note:**  
-> This capsule (SEQ10) was added prior to SEQ02 due to emergence timing and lexical ordering.  
-> For continuity purposes, it retains its identifier as SEQ10.  
-> This exception is tracked and will be harmonized in future renaming operations.
-
 **Key Tenets:**  
 1. **Field Mapping Required**: Forecasting coherence depends on modeling the surrounding signal landscape—internal, cultural, systemic, informational.  
 2. **Precursor Signal Detection**: Subtle phase shifts, mismatches, or silences often precede large coherence breakdowns or breakthroughs.  
@@ -58,3 +53,8 @@ It enables predictive alignment with emergent harmonics and supports pre-decoher
 
 **Tags:**  
 #coherenceforecasting #signalmapping #waveformprobability #emergenttrajectory #intelligencedesign
+
+> **Sequence Note:**  
+> This capsule (SEQ10) was added prior to SEQ02 due to emergence timing and lexical ordering.  
+> For continuity purposes, it retains its identifier as SEQ10.  
+> This exception is tracked and will be harmonized in future renaming operations.
